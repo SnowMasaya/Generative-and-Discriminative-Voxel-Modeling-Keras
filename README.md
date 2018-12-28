@@ -50,7 +50,7 @@ https://plot.ly/#/
 
 
 - Original data
- - [Model Net](http://modelnet.cs.princeton.edu/)
+  - [Model Net](http://modelnet.cs.princeton.edu/)
 
 
 ## Getting Started
@@ -79,7 +79,7 @@ python run_search_regist.py
 
 - Search Example
 
-[Note book]()
+[Note book](https://github.com/SnowMasaya/Generative-and-Discriminative-Voxel-Modeling-Keras/blob/master/notebooks/3d_search_result.ipynb)
 
 ### PreTraining model
 
