@@ -1,4 +1,4 @@
-# 3D classify model VoxceptionResNet and Search function develope by Keras
+# 3D classify model VoxceptionResNet(Keras) and Search function
 ==============================
 
 - 3d classify model
